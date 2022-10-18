@@ -1,6 +1,6 @@
 # Redux Filter Application
 
-In this application can you teste filters (Selectos) using React with Redux ToolKit
+In this application can you teste filters (Selectors) using React with Redux ToolKit
 
 # Installing
 
@@ -10,10 +10,10 @@ In this application can you teste filters (Selectos) using React with Redux Tool
 
 3- On Terminal, use `npm install`
 
-4- Before install all dependencies, run with `npm run dev`
+4- After install all dependencies, run with `npm run dev`
 
 
-# Contribuitors
+# Contributors
 
 @Matheus Marinho
 
